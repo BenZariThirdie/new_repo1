@@ -1,0 +1,12 @@
+User: RJ
+Villain: Sunsetsage Rider
+Superhero: Marten Broadcloak
+
+User: RJ
+Villain: Berylgazelle Gem
+Superhero: Marionette
+
+User: BJ
+Villain: Riverscribe Scourge
+Superhero: Sway
+
