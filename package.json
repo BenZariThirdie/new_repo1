@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "qr-name-generator",
+  "version": "1.0.0",
+  "description": "A Node.js program that generates QR codes for a user's name, silly name, and superhero name.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.3.7",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0"
+  },
+  "author": "Zari, Gerona",
+  "license": "ISC"
+}
